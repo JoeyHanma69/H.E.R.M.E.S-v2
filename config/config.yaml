@@ -1,0 +1,17 @@
+assistant_name: Hermes
+user_name: Joseph 
+os_types: 
+  - Windows
+  - Linux
+  - MacOS  
+
+voice: 
+  input_device: default 
+  output_device: default 
+  interrupt_enabled: true 
+
+memory: 
+  file_path: memory/hermes_memory.json 
+
+paths: 
+  log_dir: logs
